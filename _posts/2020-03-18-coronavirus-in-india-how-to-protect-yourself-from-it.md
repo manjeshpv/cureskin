@@ -14,9 +14,9 @@ post_date: 2020-03-18 08:29:22
 <span style="font-weight: 400;">
 </span><i><span style="font-weight: 400;">Here’s what you must know to protect yourself and possibly others from coronavirus.</span></i>
 <h2><span style="font-weight: 400;">How CORONA Virus spreads?</span></h2>
-<span style="font-weight: 400;">✔ When someone infected coughs on your eyes, nose or mouth, this virus enters your body infecting you in and out. Billion virus can float on one tiny droplet in the air from just one cough.</span><span style="font-weight: 400;">
+<span style="font-weight: 400;">✔ When someone infected coughs on your eyes, nose or mouth, this virus enters your body infecting you in and out. Billion virus can float on one tiny droplet in the air from just one cough.</span>
 
-</span>
+&nbsp;
 
 <span style="font-weight: 400;">✔ Sometimes, a sick person’s saliva gets on other things such as their own hand, doorknob, pens, keyboard, mouse, cups, lift button, stair handles, etc. Touching any of these things, followed by rubbing your eyes, touching nose or mouth can make you sick as well.</span>
 
@@ -46,9 +46,9 @@ post_date: 2020-03-18 08:29:22
 <span style="font-weight: 400;">✔ </span><b>Choose to maintain a safe distance of 0.5m to 2m from others.</b><b>
 </b><b>
 </b><span style="font-weight: 400;">    </span><b>Why? </b><span style="font-weight: 400;">
-</span><span style="font-weight: 400;">    Sometimes, people who are infected can show no symptoms but are still infectious. Avoid being physically close to others.</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;">    Sometimes, people who are infected can show no symptoms but are still infectious. Avoid being physically close to others.</span>
 
-</span>
+&nbsp;
 
 <span style="font-weight: 400;">✔ </span><b>Wear a mask when you go out! </b><b>
 </b><b>
@@ -68,9 +68,9 @@ post_date: 2020-03-18 08:29:22
 </span><b>
 </b><span style="font-weight: 400;">    </span><b>Why? </b><span style="font-weight: 400;">
 </span><span style="font-weight: 400;">    It’s also a major way we pick up infections like coronavirus. Better avoid it in the first place.</span><b>
-</b><span style="font-weight: 400;">
+</b>
 
-</span>
+&nbsp;
 
 <span style="font-weight: 400;">✔</span><b> Let hand sanitizer go with you everywhere!</b>
 
