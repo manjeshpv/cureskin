@@ -20,9 +20,10 @@ post_date: 2020-03-20 09:06:16
 <ol>
  	<li style="font-weight: 400;"><b>First-degree burns:</b><span style="font-weight: 400;"> Heals on their own within a week without causing scars.</span></li>
  	<li style="font-weight: 400;"><b>Second-degree burns: </b><span style="font-weight: 400;">Heals in about two weeks leaving a scar behind, but it may fade with time.</span></li>
- 	<li style="font-weight: 400;"><b>Third-degree burns:</b><span style="font-weight: 400;"> This type of burn will not heal without medical intervention. Take months or years to heal. They leave behind scars.</span></li>
+ 	<li style="font-weight: 400;"><b>Third-degree burns:</b><span style="font-weight: 400;"> This type of burn will not heal without medical intervention. Take months or years to heal. They leave behind scars.
+</span></li>
 </ol>
-<h2><span style="font-weight: 400;">Removing New Burns Marks:</span></h2>
+<h2><span style="font-weight: 400;">Removing <strong>New Burns Marks:</strong></span></h2>
 <span style="font-weight: 400;">If you have just burnt your skin, it’s easy to prevent marks from happening! Here’s what you can do immediately to improve your chances for less or no scarring.</span>
 <ul>
  	<li style="font-weight: 400;"><b>Cool the burn.</b><span style="font-weight: 400;"> Apply cold, wet compresses on the burn for about 10 minutes or until the pain subsides.</span></li>
@@ -33,7 +34,9 @@ post_date: 2020-03-20 09:06:16
  	<li style="font-weight: 400;"><span style="font-weight: 400;">If </span><b>blisters </b><span style="font-weight: 400;">form, let them heal on their own while keeping the area covered. </span></li>
  	<li style="font-weight: 400;"><b>Do not pop </b><span style="font-weight: 400;">the blisters.</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Consider taking over-the-counter pain medication such as </span><b>acetaminophen or ibuprofen.</b><span style="font-weight: 400;"> This can help relieve pain and reduce inflammation.</span></li>
- 	<li style="font-weight: 400;"><b>Protect the area from the sun: </b><span style="font-weight: 400;">Wearing protective clothing or applying a broad-spectrum, water-resistant sunscreen with an SPF of 30 or higher. Sun exposure turns your wound into a much darker color because of excessive melanin pigment generation. Fixing scars becomes difficult this way.</span></li>
+ 	<li style="font-weight: 400;"><b>Protect the area from the sun: </b><span style="font-weight: 400;">Wearing protective clothing or applying a broad-spectrum, water-resistant sunscreen with an SPF of 30 or higher. Sun exposure turns your wound into a much darker color because of excessive melanin pigment generation. Fixing scars becomes difficult this way.
+
+</span></li>
 </ul>
 <h2><span style="font-weight: 400;">Removing </span><b>Old Burns Marks:</b></h2>
 <span style="font-weight: 400;">If the scar is too old, not much can be done without medical intervention. However, you can make the scar less visible by </span><b>moisturizing it and protecting it from the sun.</b>
