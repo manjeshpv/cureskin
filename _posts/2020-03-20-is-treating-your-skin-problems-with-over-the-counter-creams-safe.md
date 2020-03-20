@@ -17,6 +17,8 @@ post_date: 2020-03-20 07:15:26
 
 <span style="font-weight: 400;">Most of these </span><b>commercially available creams have a high amount of “steroid” </b><span style="font-weight: 400;">due to its bleaching, depigmentation and anti-inflammatory effects.  This drug used in skin creams has the ability to cure a wide variety of disorders ONLY if used right. Unfortunately, it is causing more damage to the skin than it repairs as </span><b>most of us are not using them under medical supervision.</b><span style="font-weight: 400;"> </span>
 
+<span style="font-weight: 400;">Find out if your skin cream, gel, face wash, soap or any skin product have steroids: <a href="https://checkmycream.com/">CHECK MY CREAM</a></span>
+
 <span style="font-weight: 400;">Before prescribing such medications to you, skin doctors/dermatologists consider:</span>
 <ul>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Your </span><b>age</b></li>
