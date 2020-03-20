@@ -29,37 +29,17 @@ post_date: 2020-03-20 07:15:26
 <span style="font-weight: 400;">
 </span><span style="font-weight: 400;">Not following any of these will result in adverse effects and cause skin damage that is more permanent and irreversible. </span>
 
-&nbsp;
-
-<b><i>Here’s how bad “steroid” can be in treating your skin problems if not supervised by a doctor:</i></b><span style="font-weight: 400;">
-
-</span>
+<b><i>Here’s how bad “steroid” can be in treating your skin problems if not supervised by a doctor:</i></b>
 <ul>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Too much usage of Steroids causes </span><b>skin thinning</b><span style="font-weight: 400;">.  This can make you look old as your skin can collect wrinkles at a younger age.</span><span style="font-weight: 400;">
-
-</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Using them in wrong areas of skin brings in </span><b>stretch marks</b><span style="font-weight: 400;"> that are permanent and irreversible.</span><span style="font-weight: 400;">
-
-</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Excessive use of steroids causes </span><b>hypersensitivity </b><span style="font-weight: 400;">in the skin which leads to greater problems.</span><span style="font-weight: 400;">
-
-</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">It makes your </span><b>unwanted hair longer and thicker</b><span style="font-weight: 400;">. Skin looks hairy.</span><span style="font-weight: 400;">
-
-</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Usage of it near eyes affects your </span><b>eyesight </b><span style="font-weight: 400;">as the surrounding tissue absorbs it.</span><span style="font-weight: 400;">
-
-</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">It even reduces the </span><b>skin’s ability to fight off bacterial and fungal</b><span style="font-weight: 400;"> infections. Your skin is left with weaker immunity.</span><span style="font-weight: 400;">
-
-</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Finally, when you stop using such creams, it results in </span><b>intense skin redness</b><span style="font-weight: 400;"> and the formation of </span><b>fluid-filled bumps</b><span style="font-weight: 400;"> damaging the skin.</span><span style="font-weight: 400;">
-
-</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Too much usage of Steroids causes </span><b>skin thinning</b><span style="font-weight: 400;">.  This can make you look old as your skin can collect wrinkles at a younger age.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Using them in wrong areas of skin brings in </span><b>stretch marks</b><span style="font-weight: 400;"> that are permanent and irreversible.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Excessive use of steroids causes </span><b>hypersensitivity </b><span style="font-weight: 400;">in the skin which leads to greater problems.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">It makes your </span><b>unwanted hair longer and thicker</b><span style="font-weight: 400;">. Skin looks hairy.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Usage of it near eyes affects your </span><b>eyesight </b><span style="font-weight: 400;">as the surrounding tissue absorbs it.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">It even reduces the </span><b>skin’s ability to fight off bacterial and fungal</b><span style="font-weight: 400;"> infections. Your skin is left with weaker immunity.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Finally, when you stop using such creams, it results in </span><b>intense skin redness</b><span style="font-weight: 400;"> and the formation of </span><b>fluid-filled bumps</b><span style="font-weight: 400;"> damaging the skin.</span></li>
 </ul>
 <span style="font-weight: 400;">All in all, overusing such steroid-based over-the-counter creams without prescription damages your skin beyond your imagination. </span>
-
-&nbsp;
 
 <b>Better be safe, because when it comes to skin, dermatologists know the best!</b>
 
@@ -74,7 +54,6 @@ post_date: 2020-03-20 07:15:26
 </span></a><a href="https://www.verywellhealth.com/steroids-topical-steroid-side-effects-1068831"><span style="font-weight: 400;">https://www.verywellhealth.com/steroids-topical-steroid-side-effects-1068831</span></a></h5>
 &nbsp;
 
-<span style="font-weight: 400;">
-</span><span style="font-weight: 400;">
+<span style="font-weight: 400;"> </span>
 
-</span>
+&nbsp;
