@@ -15,7 +15,7 @@ post_date: 2019-02-01 09:45:33
 <span style="font-weight: 400;">
 </span><em><strong>Why aren't your acne treatments working?</strong></em><span style="font-weight: 400;">
 </span><span style="font-weight: 400;">
-</span><span style="font-weight: 400;">Acne’s are usually negligible but when they are more frequent and alarmingly increasing day by day, you resort to treatment soon. These treatments might be either topical antibiotics or antibacterial creams, retinoid, oral antibiotics and other costly treatments like laser treatment, light treatment, chemical peels and to high extend even surgeries. Once you start treatment it takes 12 weeks to start showing a change.  </span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;"><a href="https://cureskin.com/category/acne/">Acne</a>’s are usually negligible but when they are more frequent and alarmingly increasing day by day, you resort to treatment soon. These treatments might be either topical antibiotics or antibacterial creams, retinoid, oral antibiotics and other costly treatments like laser treatment, light treatment, chemical peels and to high extend even surgeries. Once you start treatment it takes 12 weeks to start showing a change.  </span><span style="font-weight: 400;">
 </span><span style="font-weight: 400;">
 </span><span style="font-weight: 400;">Tried some of these and still no change? Well, you just took things into your hands and failed miserably. </span><span style="font-weight: 400;">
 </span><span style="font-weight: 400;">Acne is not something you get to treat on your own so easily. Your problem needs to be studied deeply and a customized treatment must be given to you.</span>
