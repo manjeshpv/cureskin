@@ -4,8 +4,7 @@ post_title: 'Health Related E Books &#8211; Available for Free PDF Download'
 author: chaitra k
 post_excerpt: ""
 layout: page
-permalink: >
-  https://cureskin.com/health-related-e-books-available-for-free-pdf-download/
+permalink: https://cureskin.com/ebooks/
 published: true
 post_date: 2020-04-06 09:25:43
 ---
