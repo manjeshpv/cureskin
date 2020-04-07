@@ -1,7 +1,7 @@
 ---
 ID: 21926
 post_title: 'Health Related E Books &#8211; Available for Free PDF Download'
-author: chaitra k
+author: Cure Skin
 post_excerpt: ""
 layout: page
 permalink: https://cureskin.com/ebooks/
