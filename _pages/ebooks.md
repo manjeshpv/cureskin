@@ -4,7 +4,7 @@ post_title: 'Health Related E Books &#8211; Available for Free PDF Download'
 author: Cure Skin
 post_excerpt: ""
 layout: page
-permalink: https://cureskin.com/ebooks/
+permalink: https://cureskin.com/sample-page/ebooks/
 published: true
 post_date: 2020-04-06 09:25:43
 ---
