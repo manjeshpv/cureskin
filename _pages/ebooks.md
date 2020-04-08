@@ -11,12 +11,12 @@ post_date: 2020-04-06 09:25:43
 Know everything you need to know to make informed decisions for a lifetime of wellness through E-Books freely available for download. Complied by Doctors @CureSkin, the information provided can be 100% relied upon.
 <ol>
  	<li>
-<h1><a href="https://drive.google.com/file/d/1yqFtijHT1FeGaAx-FOmADXtW5obtUuLN/view?usp=sharing">Pregnancy and COVID-19 - Preventive measures - <span style="color: blue;">Click to Download PDF</span></a></h1>
+<h1><a href="https://drive.google.com/file/d/1yqFtijHT1FeGaAx-FOmADXtW5obtUuLN/view?usp=sharing">Pregnancy and COVID-19 - Preventive measures -</a><a href="https://cureskin.com/wp-content/uploads/2020/04/1200px-PDF_file_icon.svg_.png"><img class="alignnone  wp-image-21942" src="https://cureskin.com/wp-content/uploads/2020/04/1200px-PDF_file_icon.svg_-150x150.png" alt="" width="35" height="35" /></a><a href="https://drive.google.com/file/d/1yqFtijHT1FeGaAx-FOmADXtW5obtUuLN/view?usp=sharing"> <span style="color: blue;">Click to Download PDF</span></a></h1>
 </li>
  	<li>
 <h1><a href="https://drive.google.com/file/d/1yNOgWEql7coiw99xKBYZJLcD7b1V_pUR/view?usp=sharing">Everything about COVID-19 - <span style="color: blue;">Click to Download PDF</span></a></h1>
 </li>
  	<li>
-<h1><a href="https://drive.google.com/file/d/1vcL-U31UL1882OxzEQnfLPqhS-g0LM49/view?usp=sharing">Understanding Coronavirus &amp; Pandemic - Its symptoms and preventive measures -  <span style="color: blue;">Click to Download PDF</a></h1>
+<h1><a href="https://drive.google.com/file/d/1vcL-U31UL1882OxzEQnfLPqhS-g0LM49/view?usp=sharing">Understanding Coronavirus &amp; Pandemic - Its symptoms and preventive measures - <span style="color: blue;">Click to Download PDF</span></a></h1>
 </li>
 </ol>
