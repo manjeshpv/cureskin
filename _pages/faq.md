@@ -1,6 +1,6 @@
 ---
 ID: 21552
-post_title: Frequently Asked Questions
+post_title: 'Frequently Asked Questions &#8211; FAQs'
 author: cureskinwp
 post_excerpt: ""
 layout: page
