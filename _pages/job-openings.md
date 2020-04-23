@@ -8,4 +8,4 @@ permalink: https://cureskin.com/job-openings/
 published: true
 post_date: 2019-02-06 08:51:24
 ---
-<p>[awsmjobs]</p>
+[awsmjobs]
